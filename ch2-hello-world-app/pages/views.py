@@ -2,4 +2,4 @@ from django.http import HttpResponse
 
 
 def homePageView(request):
-    return HttpResponse("Testing git merge!")
+    return HttpResponse("Hello code merged!")
